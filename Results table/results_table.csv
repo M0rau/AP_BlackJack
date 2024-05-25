@@ -1,0 +1,101 @@
+Decks,Player Position,Strategy,Average Final Balance
+1,Single Player,"Play like dealer, same bet",570.428
+1,Single Player,"Basic Strategy, same bet",1128.456
+1,Single Player,HiLow + Basic Strategy,1468.288
+1,Single Player,KO + Basic Strategy,1507.016
+1,Single Player,Five Count + Basic Strategy,1265.332
+3,Single Player,"Play like dealer, same bet",574.044
+3,Single Player,"Basic Strategy, same bet",1076.368
+3,Single Player,HiLow + Basic Strategy,1256.744
+3,Single Player,KO + Basic Strategy,1285.272
+3,Single Player,Five Count + Basic Strategy,1191.792
+5,Single Player,"Play like dealer, same bet",560.6
+5,Single Player,"Basic Strategy, same bet",1061.232
+5,Single Player,HiLow + Basic Strategy,1205.716
+5,Single Player,KO + Basic Strategy,1285.84
+5,Single Player,Five Count + Basic Strategy,1208.3
+8,Single Player,"Play like dealer, same bet",575.704
+8,Single Player,"Basic Strategy, same bet",1064.988
+8,Single Player,HiLow + Basic Strategy,1187.88
+8,Single Player,KO + Basic Strategy,1178.996
+8,Single Player,Five Count + Basic Strategy,1141.914
+1,Position 1,"Play like dealer, same bet",359.768
+1,Position 1,"Basic Strategy, same bet",885.144
+1,Position 1,HiLow + Basic Strategy,870.928
+1,Position 1,KO + Basic Strategy,840.896
+1,Position 1,Five Count + Basic Strategy,868.128
+1,Position 3,"Play like dealer, same bet",366.56
+1,Position 3,"Basic Strategy, same bet",894.784
+1,Position 3,HiLow + Basic Strategy,880.08
+1,Position 3,KO + Basic Strategy,890.704
+1,Position 3,Five Count + Basic Strategy,894.236
+1,Position 5,"Play like dealer, same bet",374.024
+1,Position 5,"Basic Strategy, same bet",893.272
+1,Position 5,HiLow + Basic Strategy,863.736
+1,Position 5,KO + Basic Strategy,810.312
+1,Position 5,Five Count + Basic Strategy,882.088
+1,Position 7,"Play like dealer, same bet",374.392
+1,Position 7,"Basic Strategy, same bet",921.96
+1,Position 7,HiLow + Basic Strategy,867.984
+1,Position 7,KO + Basic Strategy,862.616
+1,Position 7,Five Count + Basic Strategy,851.592
+3,Position 1,"Play like dealer, same bet",362.944
+3,Position 1,"Basic Strategy, same bet",857.432
+3,Position 1,HiLow + Basic Strategy,831.888
+3,Position 1,KO + Basic Strategy,796.736
+3,Position 1,Five Count + Basic Strategy,842.46
+3,Position 3,"Play like dealer, same bet",365.632
+3,Position 3,"Basic Strategy, same bet",883.184
+3,Position 3,HiLow + Basic Strategy,842.936
+3,Position 3,KO + Basic Strategy,822.608
+3,Position 3,Five Count + Basic Strategy,841.928
+3,Position 5,"Play like dealer, same bet",366.368
+3,Position 5,"Basic Strategy, same bet",847.712
+3,Position 5,HiLow + Basic Strategy,799.792
+3,Position 5,KO + Basic Strategy,810.624
+3,Position 5,Five Count + Basic Strategy,825.588
+3,Position 7,"Play like dealer, same bet",373.312
+3,Position 7,"Basic Strategy, same bet",869.08
+3,Position 7,HiLow + Basic Strategy,864.072
+3,Position 7,KO + Basic Strategy,794.352
+3,Position 7,Five Count + Basic Strategy,822.812
+5,Position 1,"Play like dealer, same bet",364.72
+5,Position 1,"Basic Strategy, same bet",829.16
+5,Position 1,HiLow + Basic Strategy,822.992
+5,Position 1,KO + Basic Strategy,763.616
+5,Position 1,Five Count + Basic Strategy,870.872
+5,Position 3,"Play like dealer, same bet",364.08
+5,Position 3,"Basic Strategy, same bet",858.408
+5,Position 3,HiLow + Basic Strategy,863.808
+5,Position 3,KO + Basic Strategy,794.528
+5,Position 3,Five Count + Basic Strategy,823.228
+5,Position 5,"Play like dealer, same bet",365.208
+5,Position 5,"Basic Strategy, same bet",850.848
+5,Position 5,HiLow + Basic Strategy,807.856
+5,Position 5,KO + Basic Strategy,754.688
+5,Position 5,Five Count + Basic Strategy,817.084
+5,Position 7,"Play like dealer, same bet",361.496
+5,Position 7,"Basic Strategy, same bet",867.992
+5,Position 7,HiLow + Basic Strategy,830.648
+5,Position 7,KO + Basic Strategy,750.576
+5,Position 7,Five Count + Basic Strategy,825.052
+8,Position 1,"Play like dealer, same bet",364.424
+8,Position 1,"Basic Strategy, same bet",840.384
+8,Position 1,HiLow + Basic Strategy,811.488
+8,Position 1,KO + Basic Strategy,765.008
+8,Position 1,Five Count + Basic Strategy,832.676
+8,Position 3,"Play like dealer, same bet",361.728
+8,Position 3,"Basic Strategy, same bet",846.84
+8,Position 3,HiLow + Basic Strategy,845.792
+8,Position 3,KO + Basic Strategy,710.368
+8,Position 3,Five Count + Basic Strategy,822.224
+8,Position 5,"Play like dealer, same bet",360.136
+8,Position 5,"Basic Strategy, same bet",880.496
+8,Position 5,HiLow + Basic Strategy,821.824
+8,Position 5,KO + Basic Strategy,781.808
+8,Position 5,Five Count + Basic Strategy,842.48
+8,Position 7,"Play like dealer, same bet",373.552
+8,Position 7,"Basic Strategy, same bet",853.52
+8,Position 7,HiLow + Basic Strategy,822.648
+8,Position 7,KO + Basic Strategy,714.168
+8,Position 7,Five Count + Basic Strategy,834.292
